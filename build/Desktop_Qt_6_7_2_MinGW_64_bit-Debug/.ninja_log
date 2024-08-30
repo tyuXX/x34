@@ -1,0 +1,10 @@
+# ninja log v6
+9	88	7466631809161138	F:/pROjects/x34/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	716730c6a58d2376
+89	622	7466631814782390	x34_autogen/timestamp	4e277bafca6e0a86
+89	622	7466631814782390	x34_autogen/mocs_compilation.cpp	4e277bafca6e0a86
+89	622	7466631814782390	F:/pROjects/x34/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/x34_autogen/timestamp	4e277bafca6e0a86
+89	622	7466631814782390	F:/pROjects/x34/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/x34_autogen/mocs_compilation.cpp	4e277bafca6e0a86
+626	2155	7466631815322516	CMakeFiles/x34.dir/x34_autogen/mocs_compilation.cpp.obj	56fbaba9eb13c5b1
+628	2210	7466631815342523	CMakeFiles/x34.dir/main.cpp.obj	8c60b9f13b2e3084
+629	2228	7466631815362524	CMakeFiles/x34.dir/mainwindow.cpp.obj	df8f64b0e4316a4b
+2229	2388	7466631831357865	x34.exe	d810d002a821f579

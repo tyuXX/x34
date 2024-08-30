@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-69f951be56f684611cba.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "x34",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "x34::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-x34-Debug-e22417887129fb814922.json",
+					"name" : "x34",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "x34_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-x34_autogen-Debug-a24f9d5b08fdf15dddf7.json",
+					"name" : "x34_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "x34_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-x34_autogen_timestamp_deps-Debug-7ed14a8506f6baab553a.json",
+					"name" : "x34_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/pROjects/x34/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "F:/pROjects/x34"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

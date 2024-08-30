@@ -1,0 +1,9 @@
+F:/pROjects/x34/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/x34.dir
+F:/pROjects/x34/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+F:/pROjects/x34/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+F:/pROjects/x34/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+F:/pROjects/x34/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+F:/pROjects/x34/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+F:/pROjects/x34/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+F:/pROjects/x34/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/x34_autogen_timestamp_deps.dir
+F:/pROjects/x34/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/x34_autogen.dir
